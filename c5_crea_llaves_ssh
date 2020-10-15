@@ -1,0 +1,13 @@
+Las llaves SSH nos van a ayudar para autentificarnos con servidores. SSH utiliza criptografía asimétrica, o sea, tenemos dos llaves:
+
+Pública: la llave pública la podemos compartir por internet.
+Privada: debes tenerla en un sitio seguro y no debe ser compartida.
+Tener una llave SSH nos permitirá una conexión fácil y segura con servidores, en el caso de la escuela de JavaScript nos va a servir para conectarnos con GitHub.
+
+Para crear una llave SSH utilizamos el siguiente comando:
+
+ssh-keygen -t rsa -b 4096 -C llave, puede ser tu correo>
+¡Hola, NOMBRE_USUARIO!
+ Felicitaciones
+ por completar tu desafío
+ con PUNTOS_USUARIO puntos.

@@ -1,0 +1,4 @@
+cat: permite visualizar un archivo completo en la terminal.
+more: muestra por partes un archivo dentro de la terminal.
+tail: muestra las últimas 10 líneas de cada archivo, se puede modificar pasándole el parámetro con el número de líneas -15. se le pone -n
+open: abre un archivo con el programa que tengamos por defecto.
